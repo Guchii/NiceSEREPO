@@ -1,2 +1,3 @@
 # NiceSEREPO
-My SE REPO
+My SE 
+I changed stuff here XD.
